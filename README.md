@@ -49,7 +49,8 @@ else:
     Output Image
 
 The output displays the original image along with its 8 extracted bit planes (Bit Plane 0 to Bit Plane 7) in a 3 × 3 grid.
- <img width="873" height="990" alt="image" src="https://github.com/user-attachments/assets/0a9849ae-d06d-405a-b65a-d61a149bd147" />
+ <img width="959" height="990" alt="image" src="https://github.com/user-attachments/assets/f800e982-e8f7-4bb9-8107-b077768e6565" />
+
 
  
 
